@@ -9,8 +9,8 @@
 
 # DEVELOPERS 
 Developed By:                                                                                                                             
-@WitnessDevelops                                                                                                                          
-@Sxmurai  
+[@WitnessDevelops](https://github.com/WitnessDevelops)                                                                         
+[@Sxmurai](https://github.com/Sxmurai)
 
 # LINKS
 [Support](https://discord.gg/kVqJxrG)
