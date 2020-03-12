@@ -15,5 +15,4 @@ Developed By:
 # LINKS
 [Support](https://discord.gg/kVqJxrG)
  
- ![logo]
- (https://i.gyazo.com/754100671a6d99933dcf9400d9ac1746.png)
+
