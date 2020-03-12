@@ -13,5 +13,5 @@ Developed By:
 [@Sxmurai](https://github.com/Sxmurai)
 
 # LINKS
-**[Support]**(https://discord.gg/kVqJxrG)
+[Support](https://discord.gg/kVqJxrG)
  
